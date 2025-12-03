@@ -1,0 +1,14 @@
+# Python environments
+myenv/
+venv/
+env/
+pytorch_env/
+
+# PyTorch model files
+*.pt
+*.pth
+
+# Python cache
+__pycache__/
+*.pyc
+
